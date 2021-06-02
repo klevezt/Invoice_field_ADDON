@@ -1,0 +1,25 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Greek\n"
+"Language: el_GR"
+
+msgctxt "Addons::name::invoice_fields"
+msgid "invoice_fields"
+msgstr "invoice_fields"
+
+msgctxt "Addons::description::invoice_fields"
+msgid "Addon for show hide fields required when invoice is requested in checkout"
+msgstr "Ενα πρόσθετο για επεξεργασία πεδίων στο checkout που αφορούν την επιλογή απόδειξη-τιμολόγιο"
+
+msgctxt "SettingsOptions::invoice_fields::invoice_field_selector_class"
+msgid "unique css class for selection field of invoice-receipt"
+msgstr "unique css class του πεδίου επιλογής απόδειξη-τιμολογίο"
+
+msgctxt "SettingsOptions::invoice_fields::invoice_field_option_val"
+msgid "value of option that shows invoice_fields"
+msgstr "value του option που φανερώνει τα πεδία τιμολογίου"
+
+msgctxt "SettingsOptions::invoice_fields::invoice_field_class"
+msgid "class of invoice fields that show/hide"
+msgstr "class των πεδίων τιμολογίου που εμφανίζονται/εξαφανίζονται"

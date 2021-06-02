@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<addon scheme="3.0">
+    <id>invoice_fields</id>
+	<version>1.0</version>
+	<default_language>el</default_language>
+    <priority>100600</priority>
+	<status>active</status>
+    <supplier>HOTSoft.gr</supplier>
+    <authors>
+        <author>
+            <name>HOTSoft</name>
+            <email>web@hotsoft.gr</email>
+            <url>https://hotsoft.gr</url>
+            <phone>+30 28310 58778</phone>
+        </author>
+    </authors>
+    <settings edition_type="ROOT,ULT:VENDOR">
+        <sections>
+            <section id="general">
+                <items>
+					<item id="invoice_field_selector_class">
+                        <type>text</type>                        
+                        <default_value>ht_invoice_field_master</default_value>                        
+                    </item>                    
+                    <item id="invoice_field_option_val">
+                        <type>text</type>                        
+                        <default_value>2</default_value>                        
+                    </item>                    
+                    <item id="invoice_field_class">
+                        <type>text</type>                        
+                        <default_value>ht_invoice_field_wrapper</default_value>
+                    </item>                    
+                    <item id="invoice_field_info">
+                        <type>template</type>                        
+                        <default_value>invoice_help.tpl</default_value>
+                    </item>
+                </items>
+            </section>            
+        </sections>
+    </settings>
+    <functions></functions>
+</addon>
