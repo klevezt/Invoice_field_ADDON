@@ -40,4 +40,7 @@ value του option που φανερώνει τα πεδία τιμολογίο
     litecheckout__field--large litecheckout__field<br>
     litecheckout__field--xlarge litecheckout__field<br>
 </p>
-
+<p>
+    <br>
+    ΠΡΟΣΟΧΗ! ΓΙΑ ΝΑ ΕΜΦΑΝΙΣΤΟΥΝ ΤΑ ΠΕΔΙΑ , ΠΡΕΠΕΙ ΝΑ ΠΑΣ "Σχεδιασμός"->"Διατάξεις"->"Checkout"->"Πληροφορίες Πελάτη"
+</p>
